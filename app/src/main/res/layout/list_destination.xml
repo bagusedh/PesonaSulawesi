@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/listDestination">
+
+
+    <TextView
+        android:text="KotaDestination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblNamaDestination"
+        android:layout_alignLeft="@+id/lblNamaDestination"
+        android:layout_alignStart="@+id/lblNamaDestination"
+        android:id="@+id/lblKotaDestination"
+        android:textSize="14sp" />
+
+    <TextView
+        android:text="Keterangan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblKotaDestination"
+        android:layout_alignLeft="@+id/lblKotaDestination"
+        android:layout_alignStart="@+id/lblKotaDestination"
+        android:id="@+id/lblKeterangan"
+        android:textSize="14sp"
+        android:paddingBottom="12dp"/>
+
+    <TextView
+        android:text="NamaDestination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textSize="14sp"
+        android:textStyle="normal|bold"
+        android:id="@+id/lblNamaDestination"
+        android:layout_marginLeft="6dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="6dp" />
+
+
+</RelativeLayout>

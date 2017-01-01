@@ -1,0 +1,7 @@
+#Sun Jan 01 13:26:43 WIB 2017
+base.0=/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5b75361daf20b55afb9e5fef2d8cecacb158e74
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8b40b32aa1b6f1c017b6ede8846d379066b815a/classes.dex
+base.1=/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8b40b32aa1b6f1c017b6ede8846d379066b815a
+file.0=/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5b75361daf20b55afb9e5fef2d8cecacb158e74/classes.dex

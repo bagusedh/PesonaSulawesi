@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/listEvent">
+
+    <TextView
+        android:text="KotaDestinationEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblNamaDestinationEvent"
+        android:layout_alignLeft="@+id/lblNamaDestinationEvent"
+        android:layout_alignStart="@+id/lblNamaDestinationEvent"
+        android:id="@+id/lblKotaDestinationEvent"
+        android:textSize="14sp" />
+
+    <TextView
+        android:text="KeteranganEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblKotaDestinationEvent"
+        android:layout_alignLeft="@+id/lblKotaDestinationEvent"
+        android:layout_alignStart="@+id/lblKotaDestinationEvent"
+        android:id="@+id/lblKeteranganEvent"
+        android:textSize="14sp"
+        android:paddingBottom="12dp"/>
+
+    <TextView
+        android:text="NamaDestinationEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textSize="14sp"
+        android:textStyle="normal|bold"
+        android:id="@+id/lblNamaDestinationEvent"
+        android:layout_marginLeft="6dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="6dp" />
+
+</RelativeLayout>

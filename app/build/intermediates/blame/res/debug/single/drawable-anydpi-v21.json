@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_send.xml",
+        "source": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_home.xml",
+        "source": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_home.xml"
+    },
+    {
+        "merged": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_explore.xml",
+        "source": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_explore.xml"
+    },
+    {
+        "merged": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_share.xml",
+        "source": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_event.xml",
+        "source": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_event.xml"
+    },
+    {
+        "merged": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_gallery.xml",
+        "source": "/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_gallery.xml"
+    }
+]

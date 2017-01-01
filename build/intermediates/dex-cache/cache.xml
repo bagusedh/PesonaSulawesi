@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3e1bc34cdecd8f311e16f30dd88189d0148cfabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f9e823a0e59c89d5e58a10bf489ae5c9c957aed6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0b185b2713524f593d8c050ddc7f83450711d6b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_de23ae3b0226450533f8f0f94441d320d7bef36a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a78b831cecbcae7e612433caff960b198b8b316b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_03be8058eb4e6b8c29f085f48530d78ecf1579da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_a22a59e737eda41906d3f5cecc7f43462c3d8af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_55f81fba88987c690281b0ed9757ac8316f394b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_f0209a579aea3c2b0887a3063de5456221203740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_50e3b9050ce8236e983f61af25f85bac0e55e772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_bf89d533de74e873cbbfd0e0867845e4a894a7aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03ccfc3492ac066c862a2dae8ef3eff8d38cbbb2">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8b40b32aa1b6f1c017b6ede8846d379066b815a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_43d9dc7a17b4596ccfba2c6f5dbf4b3260cf0e5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_3c9366cd93089efac5184cef4ce4b1fe9669f1b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="24c13704169e88b5ad214b6d90e4b579b5b7e233">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5b75361daf20b55afb9e5fef2d8cecacb158e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8c8165f52433f9e52e19ac1c29dcdf328aaf3558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_513ee814a6f8214b407295124b341005e2531dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e406f721be7fedacb27e1f322e830e1bac36d1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_abaa81dc391e6ef396f5d7658b3e11c625261ac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_87711a0ad83ba0b7cb6b6aa038e7fbd3b0b02afa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_dacf23888850f80c932179050b7799872629a94c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_a1089ef937579264fad8750852324f3c64396355/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_cdf6010ede863af630aac4e72416eedaacf4dba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/bagus/AndroidStudioProjects/PesonaSulawesii/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_4e2dbeef8c7e592d59c52b40e3c341cd36e8bdb2/classes.dex" />
+    </item>
+
+</items>
