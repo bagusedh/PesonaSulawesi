@@ -18,7 +18,6 @@ import com.bagus.app.pesonasulawesi.dao.HomeDao;
 import static com.bagus.app.pesonasulawesi.R.id.listView;
 
 
-
 /**
  * Created by bagus on 15/10/16.
  */
@@ -45,7 +44,6 @@ public class HomeFragment extends Fragment {
         return fragmentView;
 
     }
-
 
 
     private AdapterView.OnItemClickListener onItemClickListener = new AdapterView.OnItemClickListener() {
@@ -75,11 +73,6 @@ public class HomeFragment extends Fragment {
             }
         }
     };
-
-
-
-
-
 
 }
 
