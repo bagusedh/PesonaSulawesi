@@ -38,6 +38,7 @@ public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle sa
 
         transaction.commit();
 
+        
         fragment.getMapAsync(this);
 
         return fragmentView;
