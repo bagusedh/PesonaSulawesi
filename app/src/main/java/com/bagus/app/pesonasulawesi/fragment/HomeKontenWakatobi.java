@@ -36,7 +36,6 @@ public class HomeKontenWakatobi extends Fragment {
         });
 
 
-
         String url = "http://pesona.indonesia.travel/destinasi/sulawesi/sulawesi-tenggara/taman-nasional-wakatobi/";
         WebView view = (WebView) fragmentView.findViewById(R.id.webview);
         view.getSettings().setJavaScriptEnabled(true);
@@ -44,8 +43,6 @@ public class HomeKontenWakatobi extends Fragment {
 
         return fragmentView;
 
-
     }
 }
-
 
